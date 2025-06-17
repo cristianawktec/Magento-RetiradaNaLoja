@@ -91,6 +91,8 @@ Este módulo foi desenvolvido para fins do desafio técnico proposto pela Essent
 Cristian W. K.
 
 ---
+- Para logar: admin
+- pwd: desde3113
 ![alt text](image-2.png)
 ![alt text](image-1.png)
 
