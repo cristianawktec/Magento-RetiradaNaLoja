@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/config.xsd">
+    <default>
+        <carriers>
+            <retiradaloja>
+                <active>1</active>
+                <title>Retirado na Loja</title>
+                <name>Retirado na Loja - WK</name>
+                <price>0.00</price>
+                <sort_order>1</sort_order>
+            </retiradaloja>
+        </carriers>
+    </default>
+</config>
